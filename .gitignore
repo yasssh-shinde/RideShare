@@ -1,0 +1,30 @@
+# .gitignore
+
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+
+# Logs
+logs
+*.log
+debug.log
+
+# Mac system files
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# React build files
+client/build/
+
+# OS generated files
+Thumbs.db
+
+# Optional: remove coverage reports if testing
+coverage/
+
+# Optional: database files (if local)
+*.sqlite
