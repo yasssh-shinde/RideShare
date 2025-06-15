@@ -1,3 +1,11 @@
+## 🚧 Under Construction
+
+Hold on to your seatbelts! 🏎️ The RideShare app is still in the garage getting turbo upgrades. Stay tuned for some smooth coding rides! 🚗💨
+
+
+
+
+
 # 🚗 RideShare - Carpooling & Ride Sharing Platform
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
